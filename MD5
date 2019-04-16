@@ -1,0 +1,15 @@
+cce3a196ea850cef3de21fc2857dff2f *DESCRIPTION
+ae58826cae703af70e6756d945a86539 *LICENSE
+ce2edd866cd8891bb178d01c39cf3d58 *NAMESPACE
+df0d4dacb1d6bace9cd48e11b2e31621 *R/frequentdirections.R
+62b17bd62dbd33c37795b4dc1b943c8d *README.md
+7565137edfb744cb01f461124d300192 *inst/examples/example.R
+78461931397cd9a9c3cfea0571ddfe96 *man/figures/README-frequentdirections-128-1.png
+19e575986608fa1b98332b6f7627c1d6 *man/figures/README-frequentdirections-32-1.png
+f22b404d4367b7f9c76fe538fe2ae6d1 *man/figures/README-frequentdirections-8-1.png
+298e1df2ce4ff890b0c170a0ac1719e5 *man/figures/README-plot-example-image-1.png
+b92642a7897a7ca10d941f8cc86159e4 *man/figures/README-plot-svd-1.png
+aeac97950786fad57a0d35276d746e7b *man/plot_svd.Rd
+596f5f3580d009317d8f16facea0e1cf *man/sketching.Rd
+3237f020da3b3bf8cfa41f605b32f8c9 *tests/testthat.R
+c633985087a2a84fadbd24a7018fe83e *tests/testthat/test-frequentdirections.R
